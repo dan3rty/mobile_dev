@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_clicker"
+        android:icon="@drawable/ic_cookie"
+        android:title="@string/clicker" />
+    <item
+        android:id="@+id/nav_buildings"
+        android:icon="@drawable/ic_shop"
+        android:title="@string/shop" />
+</menu>

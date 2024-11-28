@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="clicker">Clicker</string>
+    <string name="shop">Shop</string>
+    <string name="building_icon">Building icon</string>
+    <string name="cookie_icon">Цена</string>
+    <string name="cookie_count_label">Печенья:</string>
+    <string name="per_second_label">В секунду:</string>
+    <string name="time_label">Время:</string>
+    <string name="cookie_button">Нажмите, чтобы собрать печенье</string>
+    <string name="cookie_count">%.1f печенья</string>
+    <string name="per_second">%.1f печений/сек</string>
+    <string name="time">Время: %1$s</string>
+    <string name="average_speed">Средняя скорость: %.1f п/мин</string>
+    <string name="toast_insufficient_cookies">У вас недостаточно печенья для покупки "%1$s"</string>
+    <string name="toast_random_message">%1$d печений! Вы великолепны!</string>
+    <string name="default_cost">123 🍪</string>
+    <string name="default_income">15</string>
+    <string name="default_name">Название</string>
+    <string name="cookies_count">Печенье: 0</string>
+    <string name="per_second_count">В секунду: 0</string>
+    <string name="time_cout">Время: 0:00</string>
+</resources>

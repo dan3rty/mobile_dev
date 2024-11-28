@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_clicker">
+
+    <fragment
+        android:id="@+id/nav_clicker"
+        android:name="com.example.cookieclicker.fragments.ClickerFragment"
+        android:label="Clicker" />
+
+    <fragment
+        android:id="@+id/nav_buildings"
+        android:name="com.example.cookieclicker.fragments.BuildingsFragment"
+        android:label="Shop" />
+</navigation>
